@@ -7,7 +7,7 @@ public class activity1 {
         //EXAMPLE:
 
         System.out.println("BENOYA, JHOVENSON D. - BSIT-2I");
-
+        System.out.println("KYLO, PALALAY D. - BSIT-2J");
 
         System.out.println("JHONNY B. MAPULA - BSIT-2J");
 
